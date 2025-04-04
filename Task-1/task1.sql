@@ -16,3 +16,5 @@ VALUES
     (3, 'Hemanth', 'Kumar', 'HR', 58000.00, '2023-01-10'),
     (4, 'Dhenu', 'DS', 'Engineering', 80000.00, '2020-07-19'),
     (5, 'Ananya', 'Raj', 'Finance', 67000.00, '2022-06-01');
+
+SELECT * FROM Employees;
